@@ -1,0 +1,10 @@
+langchain
+langchain-community
+faiss-cpu
+huggingface-hub
+pandas
+PyPDF2
+llama-cpp-python
+python-dotenv
+pypdf
+sentence-transformers
